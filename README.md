@@ -1,7 +1,6 @@
 ### Here is what I'm working on !
 I am Dragon and i am going to eat Python ;)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing my python programming skills
 - 🌱 I’m currently learning pluralsight.com -> Core Python
