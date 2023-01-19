@@ -1,5 +1,5 @@
 ### Here is what I'm working on !
-I am Dragon and i am going to eat Python ;)
+I am Dragon(picture created with AI) and i am going to eat Python ;)
 
 
 - 🔭 I’m currently working on developing my python programming skills
